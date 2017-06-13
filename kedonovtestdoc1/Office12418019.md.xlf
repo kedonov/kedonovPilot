@@ -1,0 +1,483 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="_icms_scom_keywords_17032017.md" source-language="en-US" target-language="zh-CN" build-num="911224658">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-6fd5493" tool-company="Microsoft" />
+      <skl>
+        <internal-file form="base64"><![CDATA[eyJub2RlcyI6W3siY29udGVudCI6InRyYW5zbGF0ZSIsInBvcyI6WzAsOV19LHsiY29udGVudCI6InRyYW5zbGF0b3IiLCJwb3MiOlsxMSwyMV19LHsiY29udGVudCI6InRyYW5zbGF0b3JzIiwicG9zIjpbMjMsMzRdfSx7ImNvbnRlbnQiOiJtZXNzZW5nZXIiLCJwb3MiOlszNiw0NV19LHsiY29udGVudCI6InNreXBlIiwicG9zIjpbNDcsNTJdfSx7ImNvbnRlbnQiOiJ0ZXh0IGZyZWUiLCJwb3MiOls1NCw2M119LHsiY29udGVudCI6Ikdyb3VwTWUiLCJwb3MiOls2NSw3Ml19LHsiY29udGVudCI6ImNhbGwiLCJwb3MiOls3NCw3OF19LHsiY29udGVudCI6Im1lc3NhZ2luZyIsInBvcyI6WzgwLDg5XX0seyJjb250ZW50IjoidGV4dCIsInBvcyI6WzkxLDk1XX0seyJjb250ZW50IjoidGV4dGluZyIsInBvcyI6Wzk3LDEwNF19LHsiY29udGVudCI6ImZyZWUgY2FsbGluZyBhcHAiLCJwb3MiOlsxMDYsMTIyXX0seyJjb250ZW50IjoiZnJlZSB0ZXh0aW5nIGFwcCIsInBvcyI6WzEyNCwxNDBdfSx7ImNvbnRlbnQiOiJpbnN0YW50IG1lc3NhZ2UiLCJwb3MiOlsxNDIsMTU3XX0seyJjb250ZW50IjoiaW5zdGFudCBtZXNzZW5nZXIiLCJwb3MiOlsxNTksMTc2XX0seyJjb250ZW50IjoiU2t5cGUgRG93bmxvYWQiLCJwb3MiOlsxNzgsMTkyXX0seyJjb250ZW50Ijoid2lmaSBjYWxsaW5nIiwicG9zIjpbMTk0LDIwNl19LHsiY29udGVudCI6IlNNUyIsInBvcyI6WzIwOCwyMTFdfSx7ImNvbnRlbnQiOiJ2aWRlbyBjaGF0IiwicG9zIjpbMjEzLDIyM119LHsiY29udGVudCI6IlZpZGVvIGNoYXRzIiwicG9zIjpbMjI1LDIzNl19LHsiY29udGVudCI6IlZpZGVvIGNoYXR0aW5nIiwicG9zIjpbMjM4LDI1Ml19LHsiY29udGVudCI6ImVtb3RpY29uIiwicG9zIjpbMjU0LDI2Ml19LHsiY29udGVudCI6ImVtb3RpY29ucyIsInBvcyI6WzI2NCwyNzNdfSx7ImNvbnRlbnQiOiJjYWxsZXIgSUQiLCJwb3MiOlsyNzUsMjg0XX0seyJjb250ZW50IjoiZnJlZSB0ZXh0aW5nIiwicG9zIjpbMjg2LDI5OF19LHsiY29udGVudCI6Imxhbmd1YWdlIHRyYW5zbGF0b3IiLCJwb3MiOlszMDAsMzE5XX0seyJjb250ZW50Ijoic2t5cGUgZm9yIGJ1c2luZXNzIiwicG9zIjpbMzIxLDMzOV19LHsiY29udGVudCI6IlNreXBlIGxvZ2luIiwicG9zIjpbMzQxLDM1Ml19LHsiY29udGVudCI6IkZyZWUgY2FsbCIsInBvcyI6WzM1NCwzNjNdfSx7ImNvbnRlbnQiOiJmcmVlIGNhbGxpbmciLCJwb3MiOlszNjUsMzc3XX0seyJjb250ZW50IjoiRnJlZSBjYWxscyIsInBvcyI6WzM3OSwzODldfSx7ImNvbnRlbnQiOiJmcmVlIGNvbmZlcmVuY2UgY2FsbCIsInBvcyI6WzM5MSw0MTFdfSx7ImNvbnRlbnQiOiJmcmVlIGNvbmZlcmVuY2UgY2FsbGluZyIsInBvcyI6WzQxMyw0MzZdfSx7ImNvbnRlbnQiOiJtZWV0aW5nIiwicG9zIjpbNDM4LDQ0NV19LHsiY29udGVudCI6InNlbmQgdGV4dCIsInBvcyI6WzQ0Nyw0NTZdfSx7ImNvbnRlbnQiOiJza3lwZSBvbmxpbmUiLCJwb3MiOls0NTgsNDcwXX0seyJjb250ZW50IjoidGV4dCBtZXNzYWdlIiwicG9zIjpbNDcyLDQ4NF19LHsiY29udGVudCI6InRleHQgbWVzc2FnZXMiLCJwb3MiOls0ODYsNDk5XX0seyJjb250ZW50IjoiZnJlZSBwaG9uZSBjYWxscyIsInBvcyI6WzUwMSw1MTddfSx7ImNvbnRlbnQiOiJEb3dubG9hZCBTa3lwZSIsInBvcyI6WzUxOSw1MzNdfSx7ImNvbnRlbnQiOiJzZW5kIHRleHQgbWVzc2FnZSIsInBvcyI6WzUzNSw1NTJdfSx7ImNvbnRlbnQiOiJTa3lwZSBBUFAiLCJwb3MiOls1NTQsNTYzXX0seyJjb250ZW50Ijoic2t5cGUgd2ViIiwicG9zIjpbNTY1LDU3NF19LHsiY29udGVudCI6IlZpZGVvIGNhbGwiLCJwb3MiOls1NzYsNTg2XX0seyJjb250ZW50IjoiVmlkZW8gQ2FsbGluZyIsInBvcyI6WzU4OCw2MDFdfSx7ImNvbnRlbnQiOiJWaWRlbyBjYWxscyIsInBvcyI6WzYwMyw2MTRdfSx7ImNvbnRlbnQiOiJtYWtlIGEgY2FsbCIsInBvcyI6WzYxNiw2MjddfSx7ImNvbnRlbnQiOiJzZW5kIG1lc3NhZ2VzIiwicG9zIjpbNjI5LDY0Ml19LHsiY29udGVudCI6InZpZGVvIGNhbGxpbmcgYXBwIiwicG9zIjpbNjQ0LDY2MV19LHsiY29udGVudCI6InZpZGVvIGNoYXQgYXBwIiwicG9zIjpbNjYzLDY3N119LHsiY29udGVudCI6IlZpZGVvIGNoYXQgYXBwcyIsInBvcyI6WzY3OSw2OTRdfSx7ImNvbnRlbnQiOiJ2aWRlbyBjaGF0dGluZyBhcHBzIiwicG9zIjpbNjk2LDcxNV19LHsiY29udGVudCI6ImZyZWUgd2lmaSBjYWxsaW5nIiwicG9zIjpbNzE3LDczNF19LHsiY29udGVudCI6InBob25lIGNhbGwiLCJwb3MiOls3MzYsNzQ2XX0seyJjb250ZW50IjoiUGhvbmUgY2FsbHMiLCJwb3MiOls3NDgsNzU5XX0seyJjb250ZW50IjoidHJhbnNsYXRlIGNoaW5lc2UgdG8gZW5nbGlzaCIsInBvcyI6Wzc2MSw3ODldfSx7ImNvbnRlbnQiOiJvbmxpbmUgdHJhbnNsYXRvciIsInBvcyI6Wzc5MSw4MDhdfSx7ImNvbnRlbnQiOiJTY3JlZW4gc2hhcmUiLCJwb3MiOls4MTAsODIyXX0seyJjb250ZW50Ijoic2NyZWVuIHNoYXJpbmciLCJwb3MiOls4MjQsODM4XX0seyJjb250ZW50IjoiU2t5cGUgZm9yIE1hYyIsInBvcyI6Wzg0MCw4NTNdfSx7ImNvbnRlbnQiOiJjYWxsIGZvcndhcmRpbmciLCJwb3MiOls4NTUsODcwXX0seyJjb250ZW50IjoiY2FsbCBmcmVlIiwicG9zIjpbODcyLDg4MV19LHsiY29udGVudCI6ImNvbmYgY2FsbHMiLCJwb3MiOls4ODMsODkzXX0seyJjb250ZW50IjoiY29uZmVyZW5jZSBjYWxsIiwicG9zIjpbODk1LDkxMF19LHsiY29udGVudCI6ImNvbmZlcmVuY2UgY2FsbGluZyIsInBvcyI6WzkxMiw5MzBdfSx7ImNvbnRlbnQiOiJjb25mZXJlbmNlIGNhbGxzIiwicG9zIjpbOTMyLDk0OF19LHsiY29udGVudCI6Im1ha2UgYSBwaG9uZSBjYWxsIiwicG9zIjpbOTUwLDk2N119LHsiY29udGVudCI6ImZyZWUgdmlkZW8gY2hhdCIsInBvcyI6Wzk2OSw5ODRdfSx7ImNvbnRlbnQiOiJTa3lwZS5jb20iLCJwb3MiOls5ODYsOTk1XX0seyJjb250ZW50IjoiZmlsZSBzaGFyaW5nIiwicG9zIjpbOTk3LDEwMDldfSx7ImNvbnRlbnQiOiJmcmVlIHRleHQgYW5kIGNhbGwiLCJwb3MiOlsxMDExLDEwMjldfSx7ImNvbnRlbnQiOiJmcmVlIHRleHQgbWVzc2FnZSIsInBvcyI6WzEwMzEsMTA0OF19LHsiY29udGVudCI6IkludGVybmF0aW9uYWwgY2FsbGluZyIsInBvcyI6WzEwNTAsMTA3MV19LHsiY29udGVudCI6IkludGVybmF0aW9uYWwgY2FsbHMiLCJwb3MiOlsxMDczLDEwOTJdfSx7ImNvbnRlbnQiOiJtYWtlIHBob25lIGNhbGwiLCJwb3MiOlsxMDk0LDExMDldfSx7ImNvbnRlbnQiOiJtYWtlIHBob25lIGNhbGxzIiwicG9zIjpbMTExMSwxMTI3XX0seyJjb250ZW50IjoiZ3JvdXAgY2hhdCIsInBvcyI6WzExMjksMTEzOV19LHsiY29udGVudCI6InZvaWNlIG1lc3NhZ2VzIiwicG9zIjpbMTE0MSwxMTU1XX0seyJjb250ZW50IjoiaG93IHRvIGZvcndhcmQgY2FsbHMiLCJwb3MiOlsxMTU3LDExNzddfSx7ImNvbnRlbnQiOiJob3cgdG8gdXNlIHNreXBlIiwicG9zIjpbMTE3OSwxMTk1XX0seyJjb250ZW50IjoidmlkZW8gY29uZmVyZW5jZSIsInBvcyI6WzExOTcsMTIxM119LHsiY29udGVudCI6InZpZGVvIGNvbmZlcmVuY2luZyIsInBvcyI6WzEyMTUsMTIzM119LHsiY29udGVudCI6ImNoYXQgdmlkZW8iLCJwb3MiOlsxMjM1LDEyNDVdfSx7ImNvbnRlbnQiOiJmcmVlIGNhbGwgb25saW5lIiwicG9zIjpbMTI0NywxMjYzXX0seyJjb250ZW50IjoiRnJlZSBjYWxscyBvbmxpbmUiLCJwb3MiOlsxMjY1LDEyODJdfSx7ImNvbnRlbnQiOiJvbmxpbmUgcGhvbmUiLCJwb3MiOlsxMjg0LDEyOTZdfSx7ImNvbnRlbnQiOiJvbmxpbmUgdGV4dCIsInBvcyI6WzEyOTgsMTMwOV19LHsiY29udGVudCI6Im9ubGluZSB0ZXh0aW5nIiwicG9zIjpbMTMxMSwxMzI1XX0seyJjb250ZW50IjoiRnJlZSBpbnRlcm5hdGlvbmFsIGNhbGxzIiwicG9zIjpbMTMyNywxMzUxXX0seyJjb250ZW50IjoiZnJlZSBwaG9uZSBjYWxsIiwicG9zIjpbMTM1MywxMzY4XX0seyJjb250ZW50IjoiZ3JvdXAgdGV4dGluZyIsInBvcyI6WzEzNzAsMTM4M119LHsiY29udGVudCI6Ik9ubGluZSB2aWRlbyBjaGF0IiwicG9zIjpbMTM4NSwxNDAyXX0seyJjb250ZW50Ijoic2hhcmUgZmlsZXMiLCJwb3MiOlsxNDA0LDE0MTVdfSx7ImNvbnRlbnQiOiJjYWxsIGZvciBmcmVlIiwicG9zIjpbMTQxNywxNDMwXX0seyJjb250ZW50IjoiQ2FsbCBvbmxpbmUiLCJwb3MiOlsxNDMyLDE0NDNdfSx7ImNvbnRlbnQiOiJmcmVlIG9ubGluZSBjYWxsaW5nIiwicG9zIjpbMTQ0NSwxNDY0XX0seyJjb250ZW50IjoiRnJlZSBvbmxpbmUgY2FsbHMiLCJwb3MiOlsxNDY2LDE0ODNdfSx7ImNvbnRlbnQiOiJmcmVlIHNjcmVlbiBzaGFyaW5nIiwicG9zIjpbMTQ4NSwxNTA0XX0seyJjb250ZW50IjoiaW5zdGFsbCBza3lwZSIsInBvcyI6WzE1MDYsMTUxOV19LHsiY29udGVudCI6Imluc3RhbnQgbWVzc2FnaW5nIiwicG9zIjpbMTUyMSwxNTM4XX0seyJjb250ZW50IjoibXkgcGhvbmUgbnVtYmVyIiwicG9zIjpbMTU0MCwxNTU1XX0seyJjb250ZW50Ijoic21zIG1lc3NhZ2UiLCJwb3MiOlsxNTU3LDE1NjhdfSx7ImNvbnRlbnQiOiJzbXMgbWVzc2FnZXMiLCJwb3MiOlsxNTcwLDE1ODJdfSx7ImNvbnRlbnQiOiJzbXMgbWVzc2FnaW5nIiwicG9zIjpbMTU4NCwxNTk3XX0seyJjb250ZW50Ijoid2lmaSBjYWxsaW5nIGlwaG9uZSIsInBvcyI6WzE1OTksMTYxOF19LHsiY29udGVudCI6InRleHQgb25saW5lIiwicG9zIjpbMTYyMCwxNjMxXX0seyJjb250ZW50IjoidGV4dGluZyBmcm9tIGNvbXB1dGVyIiwicG9zIjpbMTYzMywxNjU0XX0seyJjb250ZW50IjoidGV4dGluZyBvbmxpbmUiLCJwb3MiOlsxNjU2LDE2NzBdfSx7ImNvbnRlbnQiOiJ3d3cuc2t5cGUuY29tIiwicG9zIjpbMTY3MiwxNjg1XX0seyJjb250ZW50IjoiZnJlZSBza3lwZSIsInBvcyI6WzE2ODcsMTY5N119LHsiY29udGVudCI6IkludGVybmV0IGNhbGxpbmciLCJwb3MiOlsxNjk5LDE3MTVdfSx7ImNvbnRlbnQiOiJqb2luIG1lZXRpbmciLCJwb3MiOlsxNzE3LDE3MjldfSx7ImNvbnRlbnQiOiJtYWtlIGNhbGwiLCJwb3MiOlsxNzMxLDE3NDBdfSx7ImNvbnRlbnQiOiJvbmxpbmUgY2FsbGluZyIsInBvcyI6WzE3NDIsMTc1Nl19LHsiY29udGVudCI6InNoYXJlIHNjcmVlbiIsInBvcyI6WzE3NTgsMTc3MF19LHsiY29udGVudCI6InZpZGVvIG1lc3NhZ2UiLCJwb3MiOlsxNzcyLDE3ODVdfSx7ImNvbnRlbnQiOiJ2aWRlbyBwaG9uZSIsInBvcyI6WzE3ODcsMTc5OF19LHsiY29udGVudCI6IkZyZWUgaW50ZXJuZXQgY2FsbHMiLCJwb3MiOlsxODAwLDE4MTldfSx7ImNvbnRlbnQiOiJmcmVlIHZpZGVvIGNhbGwiLCJwb3MiOlsxODIxLDE4MzZdfSx7ImNvbnRlbnQiOiJGcmVlIHZpZGVvIGNhbGxpbmciLCJwb3MiOlsxODM4LDE4NTZdfSx7ImNvbnRlbnQiOiJHcm91cCB2aWRlbyBjaGF0IiwicG9zIjpbMTg1OCwxODc0XX0seyJjb250ZW50IjoiaW50ZXJuYXRpb25hbCB0ZXh0aW5nIiwicG9zIjpbMTg3NiwxODk3XX0seyJjb250ZW50Ijoic2t5cGUgZW1vdGljb25zIiwicG9zIjpbMTg5OSwxOTE0XX0seyJjb250ZW50IjoidmlkZW8gY2hhdCBvbmxpbmUiLCJwb3MiOlsxOTE2LDE5MzNdfSx7ImNvbnRlbnQiOiJob3cgdG8gbWFrZSBhbiBpbnRlcm5hdGlvbmFsIGNhbGwiLCJwb3MiOlsxOTM1LDE5NjhdfSx7ImNvbnRlbnQiOiJsYW5ndWFnZSB0cmFuc2xhdG9yIGFwcCIsInBvcyI6WzE5NzAsMTk5M119LHsiY29udGVudCI6Im9ubGluZSBwaG9uZSBjYWxsIiwicG9zIjpbMTk5NSwyMDEyXX0seyJjb250ZW50IjoicGhvbmUgY2FsbCBvbmxpbmUiLCJwb3MiOlsyMDE0LDIwMzFdfSx7ImNvbnRlbnQiOiJza3lwZSBjb25mZXJlbmNlIGNhbGwiLCJwb3MiOlsyMDMzLDIwNTRdfSx7ImNvbnRlbnQiOiJza3lwZSBtZWV0aW5ncyIsInBvcyI6WzIwNTYsMjA3MF19LHsiY29udGVudCI6InNreXBlIG1lc3NlbmdlciIsInBvcyI6WzIwNzIsMjA4N119LHsiY29udGVudCI6InNreXBlIG1vYmlsZSIsInBvcyI6WzIwODksMjEwMV19LHsiY29udGVudCI6InNreXBlIG5hbWVzIiwicG9zIjpbMjEwMywyMTE0XX0seyJjb250ZW50Ijoic2t5cGUgbnVtYmVyIiwicG9zIjpbMjExNiwyMTI4XX0seyJjb250ZW50Ijoic2t5cGUgcmVjb3JkZXIiLCJwb3MiOlsyMTMwLDIxNDRdfSx7ImNvbnRlbnQiOiJmcmVlIG9ubGluZSBwaG9uZSIsInBvcyI6WzIxNDYsMjE2M119LHsiY29udGVudCI6Imdyb3VwIGNoYXQgYXBwIiwicG9zIjpbMjE2NSwyMTc5XX0seyJjb250ZW50IjoiaW5zdGFudCBtZXNzYWdlIGFwcCIsInBvcyI6WzIxODEsMjIwMF19LHsiY29udGVudCI6InRleHQgbWVzc2FnZSBvbmxpbmUiLCJwb3MiOlsyMjAyLDIyMjFdfSx7ImNvbnRlbnQiOiJ0cmFuc2xhdG9yIHZvaWNlIiwicG9zIjpbMjIyMywyMjM5XX0seyJjb250ZW50IjoidmlkZW8gbWVzc2FnaW5nIGFwcCIsInBvcyI6WzIyNDEsMjI2MF19LHsiY29udGVudCI6ImNsaWNrIHRvIGNhbGwiLCJwb3MiOlsyMjYyLDIyNzVdfSx7ImNvbnRlbnQiOiJmcmVlIGludGVybmF0aW9uYWwgdGV4dGluZyIsInBvcyI6WzIyNzcsMjMwM119LHsiY29udGVudCI6ImZyZWUgdm9pY2VtYWlsIiwicG9zIjpbMjMwNSwyMzE5XX0seyJjb250ZW50IjoiZnJlZSBvbmxpbmUgY2FsbCIsInBvcyI6WzIzMjEsMjMzN119LHsiY29udGVudCI6Imdyb3VwIGNhbGxpbmciLCJwb3MiOlsyMzM5LDIzNTJdfSx7ImNvbnRlbnQiOiJtYWtlIGZyZWUgY2FsbHMgb25saW5lIiwicG9zIjpbMjM1NCwyMzc2XX0seyJjb250ZW50IjoibWFraW5nIGludGVybmF0aW9uYWwgY2FsbHMiLCJwb3MiOlsyMzc4LDI0MDRdfSx7ImNvbnRlbnQiOiJvbmxpbmUgbWVzc2VuZ2VyIiwicG9zIjpbMjQwNiwyNDIyXX0seyJjb250ZW50IjoidGV4dCBhcHAgb25saW5lIiwicG9zIjpbMjQyNCwyNDM5XX0seyJjb250ZW50IjoiaW50ZXJuZXQgdGV4dGluZyIsInBvcyI6WzI0NDEsMjQ1N119XSwiY29udGVudCI6InRyYW5zbGF0ZVxuXG50cmFuc2xhdG9yXG5cbnRyYW5zbGF0b3JzXG5cbm1lc3NlbmdlclxuXG5za3lwZVxuXG50ZXh0IGZyZWVcblxuR3JvdXBNZVxuXG5jYWxsXG5cbm1lc3NhZ2luZ1xuXG50ZXh0XG5cbnRleHRpbmdcblxuZnJlZSBjYWxsaW5nIGFwcFxuXG5mcmVlIHRleHRpbmcgYXBwXG5cbmluc3RhbnQgbWVzc2FnZVxuXG5pbnN0YW50IG1lc3NlbmdlclxuXG5Ta3lwZSBEb3dubG9hZFxuXG53aWZpIGNhbGxpbmdcblxuU01TXG5cbnZpZGVvIGNoYXRcblxuVmlkZW8gY2hhdHNcblxuVmlkZW8gY2hhdHRpbmdcblxuZW1vdGljb25cblxuZW1vdGljb25zXG5cbmNhbGxlciBJRFxuXG5mcmVlIHRleHRpbmdcblxubGFuZ3VhZ2UgdHJhbnNsYXRvclxuXG5za3lwZSBmb3IgYnVzaW5lc3NcblxuU2t5cGUgbG9naW5cblxuRnJlZSBjYWxsXG5cbmZyZWUgY2FsbGluZ1xuXG5GcmVlIGNhbGxzXG5cbmZyZWUgY29uZmVyZW5jZSBjYWxsXG5cbmZyZWUgY29uZmVyZW5jZSBjYWxsaW5nXG5cbm1lZXRpbmdcblxuc2VuZCB0ZXh0XG5cbnNreXBlIG9ubGluZVxuXG50ZXh0IG1lc3NhZ2VcblxudGV4dCBtZXNzYWdlc1xuXG5mcmVlIHBob25lIGNhbGxzXG5cbkRvd25sb2FkIFNreXBlXG5cbnNlbmQgdGV4dCBtZXNzYWdlXG5cblNreXBlIEFQUFxuXG5za3lwZSB3ZWJcblxuVmlkZW8gY2FsbFxuXG5WaWRlbyBDYWxsaW5nXG5cblZpZGVvIGNhbGxzXG5cbm1ha2UgYSBjYWxsXG5cbnNlbmQgbWVzc2FnZXNcblxudmlkZW8gY2FsbGluZyBhcHBcblxudmlkZW8gY2hhdCBhcHBcblxuVmlkZW8gY2hhdCBhcHBzXG5cbnZpZGVvIGNoYXR0aW5nIGFwcHNcblxuZnJlZSB3aWZpIGNhbGxpbmdcblxucGhvbmUgY2FsbFxuXG5QaG9uZSBjYWxsc1xuXG50cmFuc2xhdGUgY2hpbmVzZSB0byBlbmdsaXNoXG5cbm9ubGluZSB0cmFuc2xhdG9yXG5cblNjcmVlbiBzaGFyZVxuXG5zY3JlZW4gc2hhcmluZ1xuXG5Ta3lwZSBmb3IgTWFjXG5cbmNhbGwgZm9yd2FyZGluZ1xuXG5jYWxsIGZyZWVcblxuY29uZiBjYWxsc1xuXG5jb25mZXJlbmNlIGNhbGxcblxuY29uZmVyZW5jZSBjYWxsaW5nXG5cbmNvbmZlcmVuY2UgY2FsbHNcblxubWFrZSBhIHBob25lIGNhbGxcblxuZnJlZSB2aWRlbyBjaGF0XG5cblNreXBlLmNvbVxuXG5maWxlIHNoYXJpbmdcblxuZnJlZSB0ZXh0IGFuZCBjYWxsXG5cbmZyZWUgdGV4dCBtZXNzYWdlXG5cbkludGVybmF0aW9uYWwgY2FsbGluZ1xuXG5JbnRlcm5hdGlvbmFsIGNhbGxzXG5cbm1ha2UgcGhvbmUgY2FsbFxuXG5tYWtlIHBob25lIGNhbGxzXG5cbmdyb3VwIGNoYXRcblxudm9pY2UgbWVzc2FnZXNcblxuaG93IHRvIGZvcndhcmQgY2FsbHNcblxuaG93IHRvIHVzZSBza3lwZVxuXG52aWRlbyBjb25mZXJlbmNlXG5cbnZpZGVvIGNvbmZlcmVuY2luZ1xuXG5jaGF0IHZpZGVvXG5cbmZyZWUgY2FsbCBvbmxpbmVcblxuRnJlZSBjYWxscyBvbmxpbmVcblxub25saW5lIHBob25lXG5cbm9ubGluZSB0ZXh0XG5cbm9ubGluZSB0ZXh0aW5nXG5cbkZyZWUgaW50ZXJuYXRpb25hbCBjYWxsc1xuXG5mcmVlIHBob25lIGNhbGxcblxuZ3JvdXAgdGV4dGluZ1xuXG5PbmxpbmUgdmlkZW8gY2hhdFxuXG5zaGFyZSBmaWxlc1xuXG5jYWxsIGZvciBmcmVlXG5cbkNhbGwgb25saW5lXG5cbmZyZWUgb25saW5lIGNhbGxpbmdcblxuRnJlZSBvbmxpbmUgY2FsbHNcblxuZnJlZSBzY3JlZW4gc2hhcmluZ1xuXG5pbnN0YWxsIHNreXBlXG5cbmluc3RhbnQgbWVzc2FnaW5nXG5cbm15IHBob25lIG51bWJlclxuXG5zbXMgbWVzc2FnZVxuXG5zbXMgbWVzc2FnZXNcblxuc21zIG1lc3NhZ2luZ1xuXG53aWZpIGNhbGxpbmcgaXBob25lXG5cbnRleHQgb25saW5lXG5cbnRleHRpbmcgZnJvbSBjb21wdXRlclxuXG50ZXh0aW5nIG9ubGluZVxuXG53d3cuc2t5cGUuY29tXG5cbmZyZWUgc2t5cGVcblxuSW50ZXJuZXQgY2FsbGluZ1xuXG5qb2luIG1lZXRpbmdcblxubWFrZSBjYWxsXG5cbm9ubGluZSBjYWxsaW5nXG5cbnNoYXJlIHNjcmVlblxuXG52aWRlbyBtZXNzYWdlXG5cbnZpZGVvIHBob25lXG5cbkZyZWUgaW50ZXJuZXQgY2FsbHNcblxuZnJlZSB2aWRlbyBjYWxsXG5cbkZyZWUgdmlkZW8gY2FsbGluZ1xuXG5Hcm91cCB2aWRlbyBjaGF0XG5cbmludGVybmF0aW9uYWwgdGV4dGluZ1xuXG5za3lwZSBlbW90aWNvbnNcblxudmlkZW8gY2hhdCBvbmxpbmVcblxuaG93IHRvIG1ha2UgYW4gaW50ZXJuYXRpb25hbCBjYWxsXG5cbmxhbmd1YWdlIHRyYW5zbGF0b3IgYXBwXG5cbm9ubGluZSBwaG9uZSBjYWxsXG5cbnBob25lIGNhbGwgb25saW5lXG5cbnNreXBlIGNvbmZlcmVuY2UgY2FsbFxuXG5za3lwZSBtZWV0aW5nc1xuXG5za3lwZSBtZXNzZW5nZXJcblxuc2t5cGUgbW9iaWxlXG5cbnNreXBlIG5hbWVzXG5cbnNreXBlIG51bWJlclxuXG5za3lwZSByZWNvcmRlclxuXG5mcmVlIG9ubGluZSBwaG9uZVxuXG5ncm91cCBjaGF0IGFwcFxuXG5pbnN0YW50IG1lc3NhZ2UgYXBwXG5cbnRleHQgbWVzc2FnZSBvbmxpbmVcblxudHJhbnNsYXRvciB2b2ljZVxuXG52aWRlbyBtZXNzYWdpbmcgYXBwXG5cbmNsaWNrIHRvIGNhbGxcblxuZnJlZSBpbnRlcm5hdGlvbmFsIHRleHRpbmdcblxuZnJlZSB2b2ljZW1haWxcblxuZnJlZSBvbmxpbmUgY2FsbFxuXG5ncm91cCBjYWxsaW5nXG5cbm1ha2UgZnJlZSBjYWxscyBvbmxpbmVcblxubWFraW5nIGludGVybmF0aW9uYWwgY2FsbHNcblxub25saW5lIG1lc3NlbmdlclxuXG50ZXh0IGFwcCBvbmxpbmVcblxuaW50ZXJuZXQgdGV4dGluZyJ9]]></internal-file>
+      </skl>
+      <count-group name="BlackBox wordcount">
+        <count count-type="x-wordCount">348</count>
+        <count count-type="x-adjWordCount">171.8</count>
+        <count count-type="x-curAdjWordCount">171.8</count>
+        <count count-type="x-repeatAdjWordCount">0</count>
+        <count count-type="x-termWordCount">0</count>
+      </count-group>
+      <count-group name="BlackBox wordcount analysis">
+        <count count-type="x-match102%">0</count>
+        <count count-type="x-match101%">0</count>
+        <count count-type="x-match100%">144</count>
+        <count count-type="x-match99-90%">92</count>
+        <count count-type="x-match89-75%">26</count>
+        <count count-type="repetition">0</count>
+      </count-group>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>translate</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="1" adjWordcount="1" curWordcount="1"</note></trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>translator</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="1" adjWordcount="1" curWordcount="1"</note></trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>translators</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="1" adjWordcount="1" curWordcount="1"</note></trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>messenger</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">Messenger</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>Messenger</source><target state-qualifier="tm-suggestion">Messenger</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="1" adjWordcount="0.4" curWordcount="0.4" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>skype</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">skype</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">skype</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="1" adjWordcount="0.25" curWordcount="0.25" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>text free</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="2" adjWordcount="2" curWordcount="2"</note></trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>GroupMe</source>
+        <target state="final" state-qualifier="leveraged-tm">GroupMe</target><alt-trans match-quality="0%" tool="BlackBox/MSR MT"><source></source><target state-qualifier="tm-suggestion">GroupMe</target></alt-trans><note from="bb-metadata">fuzzyMatch="0" wordcount="0" adjWordcount="0" curWordcount="0"</note></trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>call</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">通话</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="1" adjWordcount="0.25" curWordcount="0.25" tmLabel="SEED"</note></trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>messaging</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">消息</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">消息</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="1" adjWordcount="0.25" curWordcount="0.25" tmLabel="SEED"</note></trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>text</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">文本消息</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">文本消息</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="1" adjWordcount="0.25" curWordcount="0.25" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>texting</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">短消息</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>Texting</source><target state-qualifier="tm-suggestion">短消息</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="1" adjWordcount="0.4" curWordcount="0.4" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>free calling app</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">免费通话应用</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">免费通话应用</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="3" adjWordcount="0.75" curWordcount="0.75" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>free texting app</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="3" adjWordcount="3" curWordcount="3"</note></trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>instant message</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">即时消息</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">即时消息</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="SEED"</note></trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>instant messenger</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">Instant messenger</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>Instant messenger</source><target state-qualifier="tm-suggestion">Instant messenger</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="2" adjWordcount="0.8" curWordcount="0.8" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Skype Download</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">Skype下载</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">Skype下载</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>wifi calling</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="2" adjWordcount="2" curWordcount="2"</note></trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>SMS</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">手机短信</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">手机短信</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="1" adjWordcount="0.25" curWordcount="0.25" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>video chat</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">视频聊天</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">视频聊天</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Video chats</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="2" adjWordcount="2" curWordcount="2"</note></trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Video chatting</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="2" adjWordcount="2" curWordcount="2"</note></trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>emoticon</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">表情符</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">表情符</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="1" adjWordcount="0.25" curWordcount="0.25" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>emoticons</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">表情</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">表情</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="1" adjWordcount="0.25" curWordcount="0.25" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>caller ID</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">来电显示</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">来电显示</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="SEED"</note></trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>free texting</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="2" adjWordcount="2" curWordcount="2"</note></trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>language translator</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">Language translator</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>Language translator</source><target state-qualifier="tm-suggestion">Language translator</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="2" adjWordcount="0.8" curWordcount="0.8" tmLabel="SEED"</note></trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>skype for business</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">Skype for Business</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>Skype for Business</source><target state-qualifier="tm-suggestion">Skype for Business</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="3" adjWordcount="1.2" curWordcount="1.2" tmLabel="SEED"</note></trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Skype login</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">+skype+登录</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>+skype +login</source><target state-qualifier="tm-suggestion">+skype+登录</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="2" adjWordcount="0.8" curWordcount="0.8" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Free call</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">免费通话</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">免费通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>free calling</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">免费呼叫</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>Free Calling</source><target state-qualifier="tm-suggestion">免费呼叫</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="2" adjWordcount="0.8" curWordcount="0.8" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Free calls</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">免费通话</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">免费通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>free conference call</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">免费电话会议</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">免费电话会议</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="3" adjWordcount="0.75" curWordcount="0.75" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>free conference calling</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">免费电话会议</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">免费电话会议</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="3" adjWordcount="0.75" curWordcount="0.75" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>meeting</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">会议前</target><alt-trans match-quality="80%" tool="BlackBox/MSR MT"><source>Before meeting</source><target state-qualifier="tm-suggestion">会议前</target></alt-trans><note from="bb-metadata">fuzzyMatch="80" wordcount="1" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>send text</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">发送短信</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">发送短信</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>skype online</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">+skype+在线</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>+skype +online</source><target state-qualifier="tm-suggestion">+skype+在线</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="2" adjWordcount="0.8" curWordcount="0.8" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>text message</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">文本消息</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">文本消息</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>text messages</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">发送文字消息（短信）</target><alt-trans match-quality="80%" tool="BlackBox/MSR MT"><source>Send text messages (SMS)</source><target state-qualifier="tm-suggestion">发送文字消息（短信）</target></alt-trans><note from="bb-metadata">fuzzyMatch="80" wordcount="2" adjWordcount="1" curWordcount="1" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>free phone calls</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">免费电话通话</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">免费电话通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="3" adjWordcount="0.75" curWordcount="0.75" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Download Skype</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">下载 Skype</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">下载 Skype</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="SEED"</note></trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>send text message</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">发送短信</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">发送短信</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="3" adjWordcount="0.75" curWordcount="0.75" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Skype APP</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">+skype+应用程序</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>+skype +app</source><target state-qualifier="tm-suggestion">+skype+应用程序</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="2" adjWordcount="0.8" curWordcount="0.8" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>skype web</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="2" adjWordcount="2" curWordcount="2"</note></trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Video call</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">视频通话</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">视频通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Video Calling</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">视频通话</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">视频通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Video calls</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">与好友保持紧密联系</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">与好友保持紧密联系</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="SEED"</note></trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>make a call</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">拨打电话</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">拨打电话</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="3" adjWordcount="0.75" curWordcount="0.75" tmLabel="SEED"</note></trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>send messages</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">发送短信</target><alt-trans match-quality="89%" tool="BlackBox/MSR MT"><source>send text messages</source><target state-qualifier="tm-suggestion">发送短信</target></alt-trans><note from="bb-metadata">fuzzyMatch="89" wordcount="2" adjWordcount="1" curWordcount="1" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>video calling app</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">android视频通话应用程序</target><alt-trans match-quality="86%" tool="BlackBox/MSR MT"><source>video calling app for android</source><target state-qualifier="tm-suggestion">android视频通话应用程序</target></alt-trans><note from="bb-metadata">fuzzyMatch="86" wordcount="3" adjWordcount="1.5" curWordcount="1.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>video chat app</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">视频聊天应用</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">视频聊天应用</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="3" adjWordcount="0.75" curWordcount="0.75" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>Video chat apps</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">视频聊天应用程序</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>video chat apps</source><target state-qualifier="tm-suggestion">视频聊天应用程序</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="3" adjWordcount="1.2" curWordcount="1.2" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>video chatting apps</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="3" adjWordcount="3" curWordcount="3"</note></trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>free wifi calling</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">+免费+wifi+通话</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>+free +wifi +calling</source><target state-qualifier="tm-suggestion">+免费+wifi+通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="3" adjWordcount="1.2" curWordcount="1.2" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>phone call</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">电话通话</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">电话通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>Phone calls</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">+电话+通话</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>+phone +calls</source><target state-qualifier="tm-suggestion">+电话+通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="2" adjWordcount="0.8" curWordcount="0.8" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>translate chinese to english</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="4" adjWordcount="4" curWordcount="4"</note></trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>online translator</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="2" adjWordcount="2" curWordcount="2"</note></trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>Screen share</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">屏幕共享</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">屏幕共享</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="SEED"</note></trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>screen sharing</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">屏幕共享</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">屏幕共享</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="SEED"</note></trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>Skype for Mac</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">Mac版Skype</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">Mac版Skype</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="3" adjWordcount="0.75" curWordcount="0.75" tmLabel="SEED"</note></trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>call forwarding</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">呼叫转移</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">呼叫转移</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="SEED"</note></trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>call free</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">免费通话</target><alt-trans match-quality="75%" tool="BlackBox/MSR MT"><source>free call</source><target state-qualifier="tm-suggestion">免费通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="75" wordcount="2" adjWordcount="1" curWordcount="1" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>conf calls</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="2" adjWordcount="2" curWordcount="2"</note></trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>conference call</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">电话会议</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">电话会议</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>conference calling</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">电话会议</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">电话会议</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>conference calls</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">电话会议</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">电话会议</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>make a phone call</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">免费拨打电话</target><alt-trans match-quality="95%" tool="BlackBox/MSR MT"><source>make a free phone call</source><target state-qualifier="tm-suggestion">免费拨打电话</target></alt-trans><note from="bb-metadata">fuzzyMatch="95" wordcount="4" adjWordcount="1.6" curWordcount="1.6" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>free video chat</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">免费视频聊天</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">免费视频聊天</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="3" adjWordcount="0.75" curWordcount="0.75" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>Skype.com</source>
+        <target state="final" state-qualifier="leveraged-tm">Skype.com</target><alt-trans match-quality="0%" tool="BlackBox/MSR MT"><source></source><target state-qualifier="tm-suggestion">Skype.com</target></alt-trans><note from="bb-metadata">fuzzyMatch="0" wordcount="0" adjWordcount="0" curWordcount="0"</note></trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>file sharing</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">文件共享</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>File Sharing</source><target state-qualifier="tm-suggestion">文件共享</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="2" adjWordcount="0.8" curWordcount="0.8" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>free text and call</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="4" adjWordcount="4" curWordcount="4"</note></trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>free text message</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="3" adjWordcount="3" curWordcount="3"</note></trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>International calling</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">国际电话</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">国际电话</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>International calls</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">国际长途</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">国际长途</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>make phone call</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">免费拨打在线电话</target><alt-trans match-quality="86%" tool="BlackBox/MSR MT"><source>make phone call online free</source><target state-qualifier="tm-suggestion">免费拨打在线电话</target></alt-trans><note from="bb-metadata">fuzzyMatch="86" wordcount="3" adjWordcount="1.5" curWordcount="1.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>make phone calls</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">在线免费打电话</target><alt-trans match-quality="86%" tool="BlackBox/MSR MT"><source>make free phone calls online</source><target state-qualifier="tm-suggestion">在线免费打电话</target></alt-trans><note from="bb-metadata">fuzzyMatch="86" wordcount="3" adjWordcount="1.5" curWordcount="1.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>group chat</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">多人会话</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">多人会话</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>voice messages</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">语音消息</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>Voice messages</source><target state-qualifier="tm-suggestion">语音消息</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="2" adjWordcount="0.8" curWordcount="0.8" tmLabel="SEED"</note></trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>how to forward calls</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">如何转移呼叫：</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>How to forward calls:</source><target state-qualifier="tm-suggestion">如何转移呼叫：</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="4" adjWordcount="1.6" curWordcount="1.6" tmLabel="SEED"</note></trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>how to use skype</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">如何使用 Skype？</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>How to use Skype?</source><target state-qualifier="tm-suggestion">如何使用 Skype？</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="4" adjWordcount="1.6" curWordcount="1.6" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>video conference</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">免费视频会议</target><alt-trans match-quality="89%" tool="BlackBox/MSR MT"><source>video conference free</source><target state-qualifier="tm-suggestion">免费视频会议</target></alt-trans><note from="bb-metadata">fuzzyMatch="89" wordcount="2" adjWordcount="1" curWordcount="1" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>video conferencing</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">视频会议</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">视频会议</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>chat video</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">聊天视频</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">聊天视频</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>free call online</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">在线免费打电话</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">在线免费打电话</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="3" adjWordcount="0.75" curWordcount="0.75" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>Free calls online</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">+免费+在线+通话</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>+free +calls +online</source><target state-qualifier="tm-suggestion">+免费+在线+通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="3" adjWordcount="1.2" curWordcount="1.2" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>online phone</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">在线通话</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">在线通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>online text</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="2" adjWordcount="2" curWordcount="2"</note></trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>online texting</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="2" adjWordcount="2" curWordcount="2"</note></trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>Free international calls</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">免费国际长途</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">免费国际长途</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="3" adjWordcount="0.75" curWordcount="0.75" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>free phone call</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">免费在线打电话</target><alt-trans match-quality="93%" tool="BlackBox/MSR MT"><source>free phone call online</source><target state-qualifier="tm-suggestion">免费在线打电话</target></alt-trans><note from="bb-metadata">fuzzyMatch="93" wordcount="3" adjWordcount="1.2" curWordcount="1.2" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>group texting</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="2" adjWordcount="2" curWordcount="2"</note></trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>Online video chat</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">在线+视频+聊天</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>online +video +chat</source><target state-qualifier="tm-suggestion">在线+视频+聊天</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="3" adjWordcount="1.2" curWordcount="1.2" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>share files</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">共享文件</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>Share files</source><target state-qualifier="tm-suggestion">共享文件</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="2" adjWordcount="0.8" curWordcount="0.8" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>call for free</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">免费通话</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">免费通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="3" adjWordcount="0.75" curWordcount="0.75" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>Call online</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">+在线+通话</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>+call +online</source><target state-qualifier="tm-suggestion">+在线+通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="2" adjWordcount="0.8" curWordcount="0.8" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>free online calling</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">免费在线通话</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">免费在线通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="3" adjWordcount="0.75" curWordcount="0.75" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>Free online calls</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">+免费+在线+通话</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>+free +online +calls</source><target state-qualifier="tm-suggestion">+免费+在线+通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="3" adjWordcount="1.2" curWordcount="1.2" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>free screen sharing</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">免费屏幕共享</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>Free screen sharing</source><target state-qualifier="tm-suggestion">免费屏幕共享</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="3" adjWordcount="1.2" curWordcount="1.2" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>install skype</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">安装Skype</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>Install Skype</source><target state-qualifier="tm-suggestion">安装Skype</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="2" adjWordcount="0.8" curWordcount="0.8" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>instant messaging</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">即时消息</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">即时消息</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="SEED"</note></trans-unit>
+        <trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>my phone number</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">我的电话号码</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>My phone number</source><target state-qualifier="tm-suggestion">我的电话号码</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="3" adjWordcount="1.2" curWordcount="1.2" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>sms message</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">条手机短信</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">条手机短信</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>sms messages</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">条手机短信</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">条手机短信</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>sms messaging</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">短信</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>SMS messaging</source><target state-qualifier="tm-suggestion">短信</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="2" adjWordcount="0.8" curWordcount="0.8" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>wifi calling iphone</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="3" adjWordcount="3" curWordcount="3"</note></trans-unit>
+        <trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>text online</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="2" adjWordcount="2" curWordcount="2"</note></trans-unit>
+        <trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>texting from computer</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="3" adjWordcount="3" curWordcount="3"</note></trans-unit>
+        <trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>texting online</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="2" adjWordcount="2" curWordcount="2"</note></trans-unit>
+        <trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>www.skype.com</source>
+        <target state="final" state-qualifier="leveraged-tm">www.skype.com</target><alt-trans match-quality="0%" tool="BlackBox/MSR MT"><source></source><target state-qualifier="tm-suggestion">www.skype.com</target></alt-trans><note from="bb-metadata">fuzzyMatch="0" wordcount="0" adjWordcount="0" curWordcount="0"</note></trans-unit>
+        <trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>free skype</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">免费skype</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">免费skype</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>Internet calling</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">互联网通话</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">互联网通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>join meeting</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="2" adjWordcount="2" curWordcount="2"</note></trans-unit>
+        <trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>make call</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">拨打电话</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">拨打电话</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="SEED"</note></trans-unit>
+        <trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>online calling</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">在线通话</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">在线通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>share screen</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">共享屏幕</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>Share screen</source><target state-qualifier="tm-suggestion">共享屏幕</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="2" adjWordcount="0.8" curWordcount="0.8" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>video message</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">视频消息</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">视频消息</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="SEED"</note></trans-unit>
+        <trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>video phone</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">视频会议电话</target><alt-trans match-quality="89%" tool="BlackBox/MSR MT"><source>video conferencing phone</source><target state-qualifier="tm-suggestion">视频会议电话</target></alt-trans><note from="bb-metadata">fuzzyMatch="89" wordcount="2" adjWordcount="1" curWordcount="1" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>Free internet calls</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">免费互联网通话</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">免费互联网通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="3" adjWordcount="0.75" curWordcount="0.75" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>free video call</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">免费视频通话</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>Free video call</source><target state-qualifier="tm-suggestion">免费视频通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="3" adjWordcount="1.2" curWordcount="1.2" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>Free video calling</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">免费视频通话</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">免费视频通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="3" adjWordcount="0.75" curWordcount="0.75" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>Group video chat</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">群组视频聊天</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">群组视频聊天</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="3" adjWordcount="0.75" curWordcount="0.75" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>international texting</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="2" adjWordcount="2" curWordcount="2"</note></trans-unit>
+        <trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>skype emoticons</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">Skype表情符号</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>Skype emoticons</source><target state-qualifier="tm-suggestion">Skype表情符号</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="2" adjWordcount="0.8" curWordcount="0.8" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>video chat online</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">在线视频聊天</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">在线视频聊天</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="3" adjWordcount="0.75" curWordcount="0.75" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>how to make an international call</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">skype to go, 国际通话, 如何拨打国际电话, 国际拨号</target><alt-trans match-quality="78%" tool="BlackBox/MSR MT"><source>skype to go, International calling, how to make an international call, international dialing</source><target state-qualifier="tm-suggestion">skype to go, 国际通话, 如何拨打国际电话, 国际拨号</target></alt-trans><note from="bb-metadata">fuzzyMatch="78" wordcount="6" adjWordcount="3" curWordcount="3" tmLabel="SEED"</note></trans-unit>
+        <trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>language translator app</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="3" adjWordcount="3" curWordcount="3"</note></trans-unit>
+        <trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>online phone call</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">在线电话通话</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">在线电话通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="3" adjWordcount="0.75" curWordcount="0.75" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>phone call online</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">在线电话</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">在线电话</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="3" adjWordcount="0.75" curWordcount="0.75" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>skype conference call</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">Skype电话会议</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>Skype Conference Call</source><target state-qualifier="tm-suggestion">Skype电话会议</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="3" adjWordcount="1.2" curWordcount="1.2" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>skype meetings</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="2" adjWordcount="2" curWordcount="2"</note></trans-unit>
+        <trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>skype messenger</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">skype消息应用程序</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">skype消息应用程序</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>skype mobile</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">skype手机版</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">skype手机版</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="2" adjWordcount="0.5" curWordcount="0.5" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>skype names</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">Skype用户名</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>Skype Name(s)</source><target state-qualifier="tm-suggestion">Skype用户名</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="2" adjWordcount="0.8" curWordcount="0.8" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>skype number</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">Skype 号码</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>Skype Number</source><target state-qualifier="tm-suggestion">Skype 号码</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="2" adjWordcount="0.8" curWordcount="0.8" tmLabel="UNDEFINED_238340"</note></trans-unit>
+        <trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>skype recorder</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="2" adjWordcount="2" curWordcount="2"</note></trans-unit>
+        <trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>free online phone</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">免费在线拨打电话</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">免费在线拨打电话</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="3" adjWordcount="0.75" curWordcount="0.75" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>group chat app</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="3" adjWordcount="3" curWordcount="3"</note></trans-unit>
+        <trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>instant message app</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="3" adjWordcount="3" curWordcount="3"</note></trans-unit>
+        <trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>text message online</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="3" adjWordcount="3" curWordcount="3"</note></trans-unit>
+        <trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>translator voice</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="2" adjWordcount="2" curWordcount="2"</note></trans-unit>
+        <trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>video messaging app</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">视频消息应用程序</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>Video messaging app</source><target state-qualifier="tm-suggestion">视频消息应用程序</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="3" adjWordcount="1.2" curWordcount="1.2" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="242" translate="yes" xml:space="preserve">
+          <source>click to call</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">单击通话</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>Click to Call</source><target state-qualifier="tm-suggestion">单击通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="3" adjWordcount="1.2" curWordcount="1.2" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>free international texting</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="3" adjWordcount="3" curWordcount="3"</note></trans-unit>
+        <trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>free voicemail</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="2" adjWordcount="2" curWordcount="2"</note></trans-unit>
+        <trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>free online call</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">在线免费通话</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">在线免费通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="3" adjWordcount="0.75" curWordcount="0.75" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>group calling</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">群组通话</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>Group calling</source><target state-qualifier="tm-suggestion">群组通话</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="2" adjWordcount="0.8" curWordcount="0.8" tmLabel="SEED"</note></trans-unit>
+        <trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>make free calls online</source>
+        <target state="needs-review-translation" state-qualifier="exact-match">在线免费拨打电话</target><alt-trans match-quality="100%" tool="BlackBox/MSR MT"><target state-qualifier="tm-suggestion">在线免费拨打电话</target></alt-trans><note from="bb-metadata">fuzzyMatch="100" wordcount="4" adjWordcount="1" curWordcount="1" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>making international calls</source>
+        <target state="needs-review-translation" state-qualifier="fuzzy-match">+拨打+国际+长途</target><alt-trans match-quality="99%" tool="BlackBox/MSR MT"><source>+making +international +calls</source><target state-qualifier="tm-suggestion">+拨打+国际+长途</target></alt-trans><note from="bb-metadata">fuzzyMatch="99" wordcount="3" adjWordcount="1.2" curWordcount="1.2" tmLabel="N''"</note></trans-unit>
+        <trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>online messenger</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="2" adjWordcount="2" curWordcount="2"</note></trans-unit>
+        <trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>text app online</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="3" adjWordcount="3" curWordcount="3"</note></trans-unit>
+        <trans-unit id="251" translate="yes" xml:space="preserve">
+          <source>internet texting</source>
+        <note from="bb-metadata">fuzzyMatch="0" wordcount="2" adjWordcount="2" curWordcount="2"</note></trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
